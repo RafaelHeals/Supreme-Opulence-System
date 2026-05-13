@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local LLM Recommender"
+  short_description: "Match open-weight LLMs to local hardware"
+  default_prompt: "Use $local-llm-recommender to recommend three open-weight local LLMs for my computer."
